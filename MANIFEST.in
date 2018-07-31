@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_webcam_settings/templates *
+recursive-include octoprint_webcam_settings/translations *
+recursive-include octoprint_webcam_settings/static *
