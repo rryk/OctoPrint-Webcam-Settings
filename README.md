@@ -1,3 +1,5 @@
+**This plugin is still in development and does not fully work yet**
+
 # OctoPrint-Webcam-Settings
 
 Allows to configure low-level settings of the webcam from the OctoPrint UI.
